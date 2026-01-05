@@ -1,4 +1,5 @@
--- CTE: COMMON TABLE EXPRESSION. começa com o WITH coloca o nome do que quer representar e pod ir adicionando outras e depois pode fazer o cruzamento
+-- CTE: COMMON TABLE EXPRESSION. começa com o WITH coloca o nome do que quer representar e pode ir adicionando outras e depois pode fazer o cruzamento
+-- O objetivo é separar o problema em queries menores
 
 --Dos clientes que começaram SQL no primeiro dia (2025-08-25), quantos chegaram ao 5º dia?
 
