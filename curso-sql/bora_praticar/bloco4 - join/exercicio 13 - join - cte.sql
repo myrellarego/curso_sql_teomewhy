@@ -69,4 +69,4 @@ FROM tb_join
 -- LEFT JOIN transacoes AS t2 
 -- ON t1.idCliente = t2.idCliente
 -- AND DtCriacao >= '2025-08-25'
--- AND DtCriacao < '2025-08-30' -- busca as transações batendo cliente por cliente porem nas datas especificada
+-- AND DtCriacao < '2025-08-30' -- busca as transações batendo cliente por cliente porem nas datas especificada, se torna um critério do join
