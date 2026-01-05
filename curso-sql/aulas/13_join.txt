@@ -1,0 +1,6 @@
+--LEFT JOIN leva a tabela da ESQUERDA como referência. a tabela da esquerda é o FROM
+--se não tem na tabela da esquerda, então nem procura na tabela da DIREITA. ou seja, deixa vazia ou NULL
+
+--INNER JOIN é o match de 100%, se aparecer NULL eu apago, tenho que ter o dado na ESQUERDA e DIREITA
+
+--RIGHT JOIN leva a tabela da DIREITA como referência. então se tem algo na esquerda que não tem na dirfeita ele não puxa.
